@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=450&section=header&desc=자바%20전문가%20(예정)&descSize=12&&descAlign=80&descAlignY=70&text=자바%20맨&fontSize=80&textBg=random&animation=scaleIn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddo3421)](https://github.com/깃허브아이디/github-readme-stats)
 
